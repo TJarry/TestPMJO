@@ -1,3 +1,5 @@
-# Jarouv_PM
-Hey ! Do you want to discover what are doing in Project Managment ? If yes star this repository!
-©Jarouv
+# GitLearning
+
+In the course of Project Management we learn the first steps of a git project management.
+Git will not have secret anymore!!
+
